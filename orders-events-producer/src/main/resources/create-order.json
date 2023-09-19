@@ -1,0 +1,16 @@
+{
+	"orderEventId": null,
+	"orderStatusType": "NEW",
+	"order": {
+		"orderId": 456,
+		"orderNumber": "order101",
+		"items": [
+			"Mobile",
+			"Laptop",
+			"Smart TV"
+		],
+		"price": 100.90,
+		"taxRate": 30.30,
+		"totalPrice": 131.20
+	}
+}
